@@ -1,4 +1,5 @@
-
+-- credit goes to 2kv7 (892019215840731177) on discord
+-- original ticket https://dashboard.tickets.bot/manage/1253107828835483679/transcripts/view/3303
 local input_service = game:GetService("LogService")
 local c_meta = getrawmetatable(game) or debug.getmetatable(game)
 if c_meta and setreadonly then
